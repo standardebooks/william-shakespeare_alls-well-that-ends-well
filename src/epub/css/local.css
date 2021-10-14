@@ -133,3 +133,13 @@ footer{
 	font-variant: small-caps;
 }
 /* End letter */
+
+/* Letter + poem */
+[epub|type~="z3998:letter"][epub|type~="z3998:poem"] footer > p{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"][epub|type~="z3998:poem"] footer > p + p{
+	margin: 0;
+}
+/* End letter + poem */
