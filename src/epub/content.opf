@@ -44,6 +44,8 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A woman tricks her husband into fulfilling his marriage demands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;All’s Well That Ends Well&lt;/i&gt; was not popular during &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; time, and is still considered to be a play without renown even today. It’s also one of the three “problem plays,” in that it deals with controversial social issues. Although it remains unloved by the public, productions have featured star-studded casts, including actresses like Dame Judi Dench and Claudie Blakley.&lt;/p&gt;
