@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-shakespeare/alls-well-that-ends-well</dc:identifier>
 		<dc:date>2021-10-18T21:15:48Z</dc:date>
@@ -46,12 +46,12 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A woman tricks her husband into fulfilling his marriage demands.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A woman tricks her husband into fulfilling his marriage demands.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;All’s Well That Ends Well&lt;/i&gt; was not popular during &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; time, and is still considered to be a play without renown even today. It’s also one of the three “problem plays,” in that it deals with controversial social issues. Although it remains unloved by the public, productions have featured star-studded casts, including actresses like Dame Judi Dench and Claudie Blakley.&lt;/p&gt;
 			&lt;p&gt;Helena, daughter of a skilled doctor and adopted child of the Countess of Rousillon, is in love with Bertram, the Countess’s son. Helena cures the King of France and is rewarded with a husband of her choice, so she selects Bertram. He contests the legitimacy of their marriage, and insists on demanding that she complete two tasks before he can consider their marriage legitimate: She must wear his family ring, and provide him an heir.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/allswell/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
